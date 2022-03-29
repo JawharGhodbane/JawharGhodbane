@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all frameworks and technologies JS
 - 💞️ Competences: - Full stack JS(MEAN/MERN)
                    , API REST
-                   , Back-end tests with POSTMAN
+                   
 - 📫 How to reach me : email: jawharghod@gmail.com
                        , Linkedin: Jawhar Ghodbane
                       , facebook: Ghodbane Jawhar
