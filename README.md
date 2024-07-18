@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JawharGhodbane
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning all frameworks and technologies JS
-- 💞️ Competences: - Full stack JS(MEAN/MERN)
-                   , API REST
+- 💞️ Competences:   - Full stack Spring boot/ReactJS
+-                    - PostgreSQl/MySQL
                    
 - 📫 How to reach me : email: jawharghod@gmail.com
                        , Linkedin: Jawhar Ghodbane
